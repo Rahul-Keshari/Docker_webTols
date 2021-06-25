@@ -6,4 +6,8 @@ The task is based on creating a Web Application for Docker, in which we are perf
  👉docker run <br>
  👉docker rm -f <br>
  👉docker images <br>
+ <p align="center">
+<img src="" width="350" title="hover text"> 
+</p>
+ 
  
